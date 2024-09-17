@@ -1,6 +1,3 @@
-Here's a more concise version of your README:
-
----
 
 # Sarcasm Detection Using Traditional and Transformer Models
 
